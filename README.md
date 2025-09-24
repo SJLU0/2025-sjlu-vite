@@ -11,24 +11,24 @@
 - **Node.js**: v20.18.2
 - **npm**: 10.8.2
 
-## 📝 專案技術
+## 🖥️ 專案技術
 
-### 前端建構工具
+### 🔶 前端建構工具
 
 - **Vite** (v6.3.5) – 前端開發與打包工具
 - **vite-plugin-ejs** (v1.7.0) – EJS 模板支援
 - **vite-plugin-live-reload** (v3.0.2) – 開發時自動重載頁面
 
-### CSS / 樣式
+### 🔶 CSS / 樣式
 
 - **Bootstrap 5** – CSS 框架
 - **Sass** (v1.61.0) + **sass-loader** (v13.2.2) – SCSS 編譯
 
-### 模板 / HTML
+### 🔶 模板 / HTML
 
 - **EJS** (v3.1.9) – HTML 模板引擎
 
-#### 資料夾結構
+#### 💠 資料夾結構
 
 - assets # 靜態資源放置處
 
@@ -40,18 +40,18 @@
 
 - JavaScript 程式碼可寫在 main.js 檔案
 
-#### 注意事項
+#### 💠 注意事項
 
 - 已將 pages 資料夾內的 index.html 預設為首頁，建議不要任意修改 index.html 的檔案名稱
 - .gitignore 檔案是用來忽略掉不該上傳到 GitHub 的檔案（例如 node_modules），請不要移除 .gitignore
 
-#### 開發模式的監聽
+#### 💠 開發模式的監聽
 
 vite 專案執行開發模式 `npm run dev` 後即會自動監聽，不需要使用 `Live Sass Compiler` 的 `Watch SCSS` 功能
 
-## 部署 gh-pages 流程說明
+## 📝 部署 gh-pages 流程說明
 
-### Windows 版本
+### 🔶 Windows 版本
 
 1. 在 GitHub 建立一個新的 Repository
 
