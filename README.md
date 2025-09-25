@@ -1,8 +1,9 @@
-# BS5 專案
+# Vite 專案 (尚未引入 BS5)
 
 ## 📌 專案簡介
 
-- 使用 **Vite + Bootstrap 5 + EJS** 建置響應式網站
+- 目前僅有 **Vite + EJS**
+- 預計使用 **Vite + Bootstrap 5 + EJS** 建置響應式網站
 - 可快速新增共用模板 (header/footer)
 - 開發時支援 Live Reload，自動刷新瀏覽器
 
